@@ -1,0 +1,7 @@
+USUARIOS   -   CONTRASEÑAS
+--------------------------
+admin   -   admin
+raul_eag   -   1234
+gutiMD   -   4321
+elaguilucho   -   1122
+anthony_vice   -   elagarto
